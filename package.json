@@ -1,12 +1,14 @@
 {
-  "name": "vue-cli3",
+  "name": "{{name}}",
   "version": "0.1.0",
+  "description": "{{description}}",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "author": "{{author}}",
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
